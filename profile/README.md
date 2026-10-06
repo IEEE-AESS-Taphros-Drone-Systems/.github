@@ -1,18 +1,22 @@
 <div align="center">
-  <h1>Olá! Nós somos a Taphros Drone Systems 🚁</h1>
+  <!-- Substitua o link da imagem pelo link bruto (raw) do GitHub caso a imagem esteja em outra pasta -->
+  <img src="TAPHR_(1500_x_600_px).webp" alt="Banner Taphros Drone Systems" width="100%">
+  <br><br>
+  
   <p><b>Inovação, Visão Computacional e Desenvolvimento em Drones</b></p>
-  <a href="#-contato">Entre em Contato</a> | <a href="#-nossos-projetos">Ver Projetos</a>
+  
+  <a href="#-contato">
+    <img src="https://img.shields.io/badge/Entre_em_Contato-FF7A00?style=for-the-badge" alt="Entre em Contato">
+  </a>
+  <a href="#-nossos-projetos">
+    <img src="https://img.shields.io/badge/Ver_Projetos-0080FF?style=for-the-badge" alt="Ver Projetos">
+  </a>
   <br><br>
 </div>
 
 ## 🚀 Sobre Nós
 
-Somos uma entidade voltada para pesquisa, desenvolvimento e inovação em sistemas de drones. Nosso foco é unir teoria e prática por meio da programação, promovendo também **workshops e eventos acadêmicos** para engajar a comunidade. Acreditamos no compartilhamento de conhecimento e na superação de desafios técnicos através da colaboração.
-
-### O que nos move:
-- Construção de pipelines de inteligência artificial aplicados a aeronaves.
-- Exploração de dados, anotação de datasets e melhoria contínua de rotinas automatizadas.
-- Formação de novos talentos interessados em tecnologia aeronáutica e programação.
+O Capítulo Estudantil IEEE AESS da UFABC é focado no avanço das tecnologias de Drones (VANTs) por meio de pesquisa e desenvolvimento de soluções aeroespaciais. Nosso objetivo é unir teoria e prática em projetos reais, cultivando um ambiente colaborativo de aprendizado. Através de workshops, eventos e parcerias com a indústria, capacitamos estudantes e impulsionamos a inovação no setor de veículos aéreos não tripulados.
 
 ---
 
@@ -28,7 +32,7 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 
 ## 💻 Nossos Projetos
 
-> *Os projetos abaixo seguem a filosofia do Simplefolio: descrições objetivas (como um "tweet") focadas nas habilidades aplicadas e nos problemas resolvidos.*
+> *Os projetos abaixo seguem a nossa filosofia: descrições objetivas focadas nas habilidades aplicadas e nos problemas resolvidos.*
 
 ### 1. Sistema de Visão e Reconhecimento (Exemplo)
 **Descrição:** Implementação de visão computacional em tempo real para drones utilizando OpenCV e modelos YOLO. O projeto reforça práticas de otimização de processamento e tomada de decisão autônoma embarcada.
