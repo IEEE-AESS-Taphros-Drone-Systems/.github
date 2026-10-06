@@ -40,7 +40,7 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 **Descrição:** Repositório colaborativo contendo nossos scripts e processos para anotação, tratamento e limpeza de datasets complexos para treinamento de modelos de detecção.
 <br>🔗 [Acessar Repositório](#)
 
-### 3. Materiais de Workshops (Exemplo)
+### 3. Materiais de Workshops
 **Descrição:** Códigos-fonte e apresentações utilizados em nossos eventos acadêmicos. Este repositório reflete nosso compromisso com a comunicação técnica e o desenvolvimento da comunidade local.
 <br>🔗 [Acessar Repositório](https://github.com/IEEE-AESS-Taphros-Drone-Systems/Curso-YOLO-Roboflow)
 
