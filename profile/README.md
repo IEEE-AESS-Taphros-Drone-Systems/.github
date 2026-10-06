@@ -44,7 +44,7 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 
 ### 3. Materiais de Workshops (Exemplo)
 **Descrição:** Códigos-fonte e apresentações utilizados em nossos eventos acadêmicos. Este repositório reflete nosso compromisso com a comunicação técnica e o desenvolvimento da comunidade local.
-<br>🔗 [Acessar Repositório](#)
+<br>🔗 [https://github.com/IEEE-AESS-Taphros-Drone-Systems/Curso-YOLO-Roboflow](#)
 
 ---
 
