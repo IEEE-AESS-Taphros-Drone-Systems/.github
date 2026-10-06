@@ -32,8 +32,6 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 
 ## 💻 Nossos Projetos
 
-> *Os projetos abaixo seguem a nossa filosofia: descrições objetivas focadas nas habilidades aplicadas e nos problemas resolvidos.*
-
 ### 1. Sistema de Visão e Reconhecimento (Exemplo)
 **Descrição:** Implementação de visão computacional em tempo real para drones utilizando OpenCV e modelos YOLO. O projeto reforça práticas de otimização de processamento e tomada de decisão autônoma embarcada.
 <br>🔗 [Acessar Repositório](#)
@@ -44,7 +42,7 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 
 ### 3. Materiais de Workshops (Exemplo)
 **Descrição:** Códigos-fonte e apresentações utilizados em nossos eventos acadêmicos. Este repositório reflete nosso compromisso com a comunicação técnica e o desenvolvimento da comunidade local.
-<br>🔗 [https://github.com/IEEE-AESS-Taphros-Drone-Systems/Curso-YOLO-Roboflow](#)
+<br>🔗 [Acessar Repositório](#https://github.com/IEEE-AESS-Taphros-Drone-Systems/Curso-YOLO-Roboflow)
 
 ---
 
